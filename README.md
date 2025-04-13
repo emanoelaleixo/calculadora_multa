@@ -13,10 +13,13 @@ Um aplicativo feito em Python com interface gráfica (Tkinter) que permite calcu
 
 ### baixe o repositório
 
+- No canto superior direito, clique no botão verde "<> Code", depois escolha "Download ZIP". Isso fará o download de todos os arquivos do projeto para o seu computador.
 - Extrair o `.zip` que foi enviado
 - Entre na pasta app
 - O executável estará dentro da pasta `dist/`
 - Realize duplo clique no arquivo "calcular_multa" para execultar
+
+Obs.: Não é necessário ter o Python instalado ou abrir algum programa de desenvolvimento. É só executar o arquivo e o aplicativo já começa a rodar!
 
 ## 🖼️ Imagem do programa
 
