@@ -18,6 +18,11 @@ Um aplicativo feito em Python com interface gráfica (Tkinter) que permite calcu
 - O executável estará dentro da pasta `dist/`
 - Realize duplo clique no arquivo "calcular_multa" para execultar
 
+## 🖼️ Imagem do programa
+
+![img_app](https://github.com/user-attachments/assets/e4395ecc-8795-42b9-8032-18984c2abc29)
+
+
 ## 📝 Licença
 
 Este projeto é de uso pessoal e educativo. Sinta-se livre para adaptar conforme suas necessidades.
